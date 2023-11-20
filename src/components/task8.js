@@ -6,5 +6,5 @@ const Task8 = () => {
     );
 };
 
-
+// сделать модальное окно
 export default Task8;
